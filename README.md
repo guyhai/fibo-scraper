@@ -4,7 +4,7 @@
 
 run command
 
-```bash
+```
 npm install
 ```
 
